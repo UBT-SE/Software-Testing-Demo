@@ -1,6 +1,6 @@
 # Testing Demo
 
-Small Spring Boot project for teaching:
+Small Spring Boot project for testing:
 - unit testing with Mockito
 - web/controller testing with MockMvc and `@WebMvcTest`
 - system/integration testing with `@SpringBootTest`
